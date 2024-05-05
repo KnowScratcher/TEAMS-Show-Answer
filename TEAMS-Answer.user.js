@@ -4,7 +4,7 @@
 // @version      v1.0.0
 // @description  專門為翰林雲端學院設計的顯示答案Tempermonkey「腳本」
 // @author       Know Scratcher
-// @match        https://*teamslite.com.tw/student/exam.html*
+// @match        https://*.teamslite.com.tw/student/exam.html*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=teamslite.com.tw
 // @grant        none
 // ==/UserScript==
