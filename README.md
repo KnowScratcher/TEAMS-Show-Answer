@@ -1,5 +1,5 @@
 # TEAMS-Show-Answer
-## 專門為翰林雲端學院設計的顯示答案Tempermonkey「腳本」
+## 專門為翰林雲端學院設計的顯示答案Tampermonkey「腳本」
 ## !!請注意!! 作弊後責任請自行承擔
 ## 效果
 ![效果](https://upload.cc/i1/2024/05/05/ZW92Jw.png)
